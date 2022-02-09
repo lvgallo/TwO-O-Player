@@ -1,9 +1,4 @@
 require "./player.rb"
-
-
-
-
-require './player.rb'
 require './question.rb'
 
 class Game
